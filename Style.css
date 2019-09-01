@@ -1,0 +1,11 @@
+h1{
+    display: inline-block;
+    font-size: 2em;
+    font-weight: 200;
+    color: red;
+    margin:0;
+}
+.head_form {
+    display: inline-block;
+    float: right;
+}
