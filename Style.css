@@ -1,6 +1,12 @@
+body{
+    background-color:#E5CCFF
+}
+#head{
+    margin:20px;
+}
 h1{
     display: inline-block;
-    font-size: 2em;
+    font-size: 6em;
     font-weight: 200;
     color: red;
     margin:0;
@@ -8,4 +14,19 @@ h1{
 .head_form {
     display: inline-block;
     float: right;
+    margin-top:71px;
+}
+.head_form input{
+    font-size: 1.1em;
+}
+.head_form a{
+    text-decoration: none;
+}
+h2{
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    line-height: 2.5em;
 }
